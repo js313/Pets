@@ -1,0 +1,1202 @@
+[
+    {
+        "_id": "6292a62bfc13ae5e8e000cee",
+        "type": "Point",
+        "properties": {
+            "address": "68 Dahle Terrace",
+            "description": "Treinta y Tres"
+        },
+        "coordinates": [
+            -54.3576473,
+            -33.229046
+        ]
+    },
+    {
+        "_id": "6292a62bfc13ae5e8e000cef",
+        "type": "Point",
+        "properties": {
+            "address": "454 Onsgard Drive",
+            "description": "Xiancun"
+        },
+        "coordinates": [
+            113.331389,
+            23.124745
+        ]
+    },
+    {
+        "_id": "6292a62bfc13ae5e8e000cf0",
+        "type": "Point",
+        "properties": {
+            "address": "4291 Bluestem Terrace",
+            "description": "Lanta Timur"
+        },
+        "coordinates": [
+            118.9907046,
+            -8.6247652
+        ]
+    },
+    {
+        "_id": "6292a62bfc13ae5e8e000cf1",
+        "type": "Point",
+        "properties": {
+            "address": "50 1st Terrace",
+            "description": "Haapajärvi"
+        },
+        "coordinates": [
+            25.3525414,
+            63.7453456
+        ]
+    },
+    {
+        "_id": "6292a62bfc13ae5e8e000cf2",
+        "type": "Point",
+        "properties": {
+            "address": "6220 Oxford Point",
+            "description": "Qīr"
+        },
+        "coordinates": [
+            52.9599661,
+            28.3559058
+        ]
+    },
+    {
+        "_id": "6292a62bfc13ae5e8e000cf3",
+        "type": "Point",
+        "properties": {
+            "address": "04 Straubel Park",
+            "description": "Zabrze"
+        },
+        "coordinates": [
+            18.7871344,
+            50.3055387
+        ]
+    },
+    {
+        "_id": "6292a62bfc13ae5e8e000cf4",
+        "type": "Point",
+        "properties": {
+            "address": "97 Westend Place",
+            "description": "San Carlos"
+        },
+        "coordinates": [
+            -75.698571,
+            8.797145
+        ]
+    },
+    {
+        "_id": "6292a62bfc13ae5e8e000cf5",
+        "type": "Point",
+        "properties": {
+            "address": "78189 Chive Lane",
+            "description": "Kiupo"
+        },
+        "coordinates": [
+            124.2404727,
+            7.2149367
+        ]
+    },
+    {
+        "_id": "6292a62bfc13ae5e8e000cf6",
+        "type": "Point",
+        "properties": {
+            "address": "28 Dapin Hill",
+            "description": "Postupice"
+        },
+        "coordinates": [
+            14.7772237,
+            49.727987
+        ]
+    },
+    {
+        "_id": "6292a62bfc13ae5e8e000cf7",
+        "type": "Point",
+        "properties": {
+            "address": "746 Annamark Alley",
+            "description": "Luena"
+        },
+        "coordinates": [
+            19.8901427,
+            -11.7714258
+        ]
+    },
+    {
+        "_id": "6292a62bfc13ae5e8e000cf8",
+        "type": "Point",
+        "properties": {
+            "address": "4 Pleasure Circle",
+            "description": "Kakanj"
+        },
+        "coordinates": [
+            18.1178262,
+            44.128014
+        ]
+    },
+    {
+        "_id": "6292a62bfc13ae5e8e000cf9",
+        "type": "Point",
+        "properties": {
+            "address": "7 Homewood Point",
+            "description": "Himanka"
+        },
+        "coordinates": [
+            23.6542166,
+            64.0615492
+        ]
+    },
+    {
+        "_id": "6292a62bfc13ae5e8e000cfa",
+        "type": "Point",
+        "properties": {
+            "address": "2403 Jana Drive",
+            "description": "Long Hồ"
+        },
+        "coordinates": [
+            105.9464874,
+            10.1980682
+        ]
+    },
+    {
+        "_id": "6292a62bfc13ae5e8e000cfb",
+        "type": "Point",
+        "properties": {
+            "address": "22 7th Way",
+            "description": "Sūrīān"
+        },
+        "coordinates": [
+            53.45,
+            30.466667
+        ]
+    },
+    {
+        "_id": "6292a62bfc13ae5e8e000cfc",
+        "type": "Point",
+        "properties": {
+            "address": "50693 Nevada Place",
+            "description": "Wabana"
+        },
+        "coordinates": [
+            -52.94806,
+            47.63319
+        ]
+    },
+    {
+        "_id": "6292a62bfc13ae5e8e000cfd",
+        "type": "Point",
+        "properties": {
+            "address": "9758 Iowa Plaza",
+            "description": "Quanxi"
+        },
+        "coordinates": [
+            108.8076195,
+            23.7247599
+        ]
+    },
+    {
+        "_id": "6292a62bfc13ae5e8e000cfe",
+        "type": "Point",
+        "properties": {
+            "address": "1717 Cascade Pass",
+            "description": "Tsibulev"
+        },
+        "coordinates": [
+            29.8488529,
+            49.0711781
+        ]
+    },
+    {
+        "_id": "6292a62bfc13ae5e8e000cff",
+        "type": "Point",
+        "properties": {
+            "address": "7302 Gateway Pass",
+            "description": "Pustá Polom"
+        },
+        "coordinates": [
+            17.9979053,
+            49.8491712
+        ]
+    },
+    {
+        "_id": "6292a62bfc13ae5e8e000d00",
+        "type": "Point",
+        "properties": {
+            "address": "8959 Bultman Parkway",
+            "description": "Catriel"
+        },
+        "coordinates": [
+            -58.5247124,
+            -34.6893026
+        ]
+    },
+    {
+        "_id": "6292a62bfc13ae5e8e000d01",
+        "type": "Point",
+        "properties": {
+            "address": "3 Dennis Terrace",
+            "description": "Krajan Bakalan"
+        },
+        "coordinates": [
+            112.6109257,
+            -8.0110383
+        ]
+    },
+    {
+        "_id": "6292a62bfc13ae5e8e000d02",
+        "type": "Point",
+        "properties": {
+            "address": "206 Hallows Trail",
+            "description": "Pont-Rouge"
+        },
+        "coordinates": [
+            -71.693538,
+            46.7498338
+        ]
+    },
+    {
+        "_id": "6292a62bfc13ae5e8e000d03",
+        "type": "Point",
+        "properties": {
+            "address": "270 Nova Plaza",
+            "description": "Bangkalan"
+        },
+        "coordinates": [
+            112.9136695,
+            -7.038375
+        ]
+    },
+    {
+        "_id": "6292a62bfc13ae5e8e000d04",
+        "type": "Point",
+        "properties": {
+            "address": "9790 Farragut Way",
+            "description": "Ambatolampy"
+        },
+        "coordinates": [
+            47.4392352,
+            -19.3836846
+        ]
+    },
+    {
+        "_id": "6292a62bfc13ae5e8e000d05",
+        "type": "Point",
+        "properties": {
+            "address": "47 Lighthouse Bay Park",
+            "description": "Napier"
+        },
+        "coordinates": [
+            176.9054195,
+            -39.4886902
+        ]
+    },
+    {
+        "_id": "6292a62bfc13ae5e8e000d06",
+        "type": "Point",
+        "properties": {
+            "address": "9 Nova Avenue",
+            "description": "Krzeszów"
+        },
+        "coordinates": [
+            16.0708309,
+            50.7338713
+        ]
+    },
+    {
+        "_id": "6292a62bfc13ae5e8e000d07",
+        "type": "Point",
+        "properties": {
+            "address": "24 Bultman Court",
+            "description": "Yulin"
+        },
+        "coordinates": [
+            110.18122,
+            22.654032
+        ]
+    },
+    {
+        "_id": "6292a62bfc13ae5e8e000d08",
+        "type": "Point",
+        "properties": {
+            "address": "4 Logan Plaza",
+            "description": "Vynohradove"
+        },
+        "coordinates": [
+            32.9355243,
+            46.3636288
+        ]
+    },
+    {
+        "_id": "6292a62bfc13ae5e8e000d09",
+        "type": "Point",
+        "properties": {
+            "address": "045 Transport Parkway",
+            "description": "Gantang"
+        },
+        "coordinates": [
+            99.200253,
+            24.063883
+        ]
+    },
+    {
+        "_id": "6292a62bfc13ae5e8e000d0a",
+        "type": "Point",
+        "properties": {
+            "address": "62408 Milwaukee Avenue",
+            "description": "Yelwa"
+        },
+        "coordinates": [
+            4.7432763,
+            10.8370155
+        ]
+    },
+    {
+        "_id": "6292a62bfc13ae5e8e000d0b",
+        "type": "Point",
+        "properties": {
+            "address": "00 Dryden Plaza",
+            "description": "Cangqian"
+        },
+        "coordinates": [
+            120.006412,
+            30.291711
+        ]
+    },
+    {
+        "_id": "6292a62bfc13ae5e8e000d0c",
+        "type": "Point",
+        "properties": {
+            "address": "78868 Eggendart Lane",
+            "description": "Marneuli"
+        },
+        "coordinates": [
+            44.785078,
+            41.4689396
+        ]
+    },
+    {
+        "_id": "6292a62bfc13ae5e8e000d0d",
+        "type": "Point",
+        "properties": {
+            "address": "63 Hansons Junction",
+            "description": "Petit Valley"
+        },
+        "coordinates": [
+            -61.5471829,
+            10.701232
+        ]
+    },
+    {
+        "_id": "6292a62bfc13ae5e8e000d0e",
+        "type": "Point",
+        "properties": {
+            "address": "357 Kennedy Park",
+            "description": "Aanislag"
+        },
+        "coordinates": [
+            123.703,
+            13.0748
+        ]
+    },
+    {
+        "_id": "6292a62bfc13ae5e8e000d0f",
+        "type": "Point",
+        "properties": {
+            "address": "3447 Golf Course Plaza",
+            "description": "Saint-Lô"
+        },
+        "coordinates": [
+            -1.0793373,
+            49.0993758
+        ]
+    },
+    {
+        "_id": "6292a62bfc13ae5e8e000d10",
+        "type": "Point",
+        "properties": {
+            "address": "11 Mitchell Lane",
+            "description": "Yingkeng"
+        },
+        "coordinates": [
+            120.047651,
+            28.888555
+        ]
+    },
+    {
+        "_id": "6292a62bfc13ae5e8e000d11",
+        "type": "Point",
+        "properties": {
+            "address": "08 Laurel Junction",
+            "description": "Makrochóri"
+        },
+        "coordinates": [
+            22.249713,
+            40.5511823
+        ]
+    },
+    {
+        "_id": "6292a62bfc13ae5e8e000d12",
+        "type": "Point",
+        "properties": {
+            "address": "0486 Goodland Hill",
+            "description": "Xilin Hot"
+        },
+        "coordinates": [
+            116.086032,
+            43.933411
+        ]
+    },
+    {
+        "_id": "6292a62bfc13ae5e8e000d13",
+        "type": "Point",
+        "properties": {
+            "address": "43 Crowley Alley",
+            "description": "Kaniów"
+        },
+        "coordinates": [
+            20.6630795,
+            50.9872632
+        ]
+    },
+    {
+        "_id": "6292a62bfc13ae5e8e000d14",
+        "type": "Point",
+        "properties": {
+            "address": "6 Nova Crossing",
+            "description": "Volodarka"
+        },
+        "coordinates": [
+            29.9197237,
+            49.5265342
+        ]
+    },
+    {
+        "_id": "6292a62bfc13ae5e8e000d15",
+        "type": "Point",
+        "properties": {
+            "address": "056 Sloan Crossing",
+            "description": "Geoktschai"
+        },
+        "coordinates": [
+            47.7403034,
+            40.6236168
+        ]
+    },
+    {
+        "_id": "6292a62bfc13ae5e8e000d16",
+        "type": "Point",
+        "properties": {
+            "address": "8 Sunnyside Pass",
+            "description": "Bira"
+        },
+        "coordinates": [
+            132.4671327,
+            49.0026196
+        ]
+    },
+    {
+        "_id": "6292a62bfc13ae5e8e000d17",
+        "type": "Point",
+        "properties": {
+            "address": "9 Atwood Hill",
+            "description": "Tegalwero"
+        },
+        "coordinates": [
+            111.1682495,
+            -6.7974263
+        ]
+    },
+    {
+        "_id": "6292a62bfc13ae5e8e000d18",
+        "type": "Point",
+        "properties": {
+            "address": "0 High Crossing Street",
+            "description": "‘Alāqahdārī Kirān wa Munjān"
+        },
+        "coordinates": [
+            70.77258,
+            36.02866
+        ]
+    },
+    {
+        "_id": "6292a62bfc13ae5e8e000d19",
+        "type": "Point",
+        "properties": {
+            "address": "93 Ilene Trail",
+            "description": "Bentiu"
+        },
+        "coordinates": [
+            29.8005027,
+            9.231487
+        ]
+    },
+    {
+        "_id": "6292a62bfc13ae5e8e000d1a",
+        "type": "Point",
+        "properties": {
+            "address": "19 Fairview Place",
+            "description": "Haumeni"
+        },
+        "coordinates": [
+            124.6552328,
+            -9.8895144
+        ]
+    },
+    {
+        "_id": "6292a62bfc13ae5e8e000d1b",
+        "type": "Point",
+        "properties": {
+            "address": "38 Swallow Park",
+            "description": "Nowogard"
+        },
+        "coordinates": [
+            15.1379238,
+            53.6897029
+        ]
+    },
+    {
+        "_id": "6292a62bfc13ae5e8e000d1c",
+        "type": "Point",
+        "properties": {
+            "address": "7457 Service Road",
+            "description": "Irará"
+        },
+        "coordinates": [
+            -38.7577605,
+            -12.034087
+        ]
+    },
+    {
+        "_id": "6292a62bfc13ae5e8e000d1d",
+        "type": "Point",
+        "properties": {
+            "address": "65534 Truax Hill",
+            "description": "Longos"
+        },
+        "coordinates": [
+            120.960724,
+            14.657554
+        ]
+    },
+    {
+        "_id": "6292a62bfc13ae5e8e000d1e",
+        "type": "Point",
+        "properties": {
+            "address": "66714 Mccormick Avenue",
+            "description": "Weihe"
+        },
+        "coordinates": [
+            128.3838321,
+            44.956193
+        ]
+    },
+    {
+        "_id": "6292a62bfc13ae5e8e000d1f",
+        "type": "Point",
+        "properties": {
+            "address": "59 Hallows Hill",
+            "description": "An Naşşārīyah"
+        },
+        "coordinates": [
+            35.38711,
+            32.23647
+        ]
+    },
+    {
+        "_id": "6292a62bfc13ae5e8e000d20",
+        "type": "Point",
+        "properties": {
+            "address": "79 Bultman Avenue",
+            "description": "Yangju"
+        },
+        "coordinates": [
+            127.0458453,
+            37.7852875
+        ]
+    },
+    {
+        "_id": "6292a62bfc13ae5e8e000d21",
+        "type": "Point",
+        "properties": {
+            "address": "9841 Crest Line Road",
+            "description": "Pokój"
+        },
+        "coordinates": [
+            17.8430924,
+            50.9040233
+        ]
+    },
+    {
+        "_id": "6292a62bfc13ae5e8e000d22",
+        "type": "Point",
+        "properties": {
+            "address": "7 Oakridge Crossing",
+            "description": "Las Animas"
+        },
+        "coordinates": [
+            -73.2230401,
+            -39.8084258
+        ]
+    },
+    {
+        "_id": "6292a62bfc13ae5e8e000d23",
+        "type": "Point",
+        "properties": {
+            "address": "2 Lighthouse Bay Street",
+            "description": "Banjar Sengguan"
+        },
+        "coordinates": [
+            115.1600621,
+            -8.6051214
+        ]
+    },
+    {
+        "_id": "6292a62bfc13ae5e8e000d24",
+        "type": "Point",
+        "properties": {
+            "address": "318 Sheridan Terrace",
+            "description": "Hougaoshizhuang"
+        },
+        "coordinates": [
+            112.073298,
+            39.803681
+        ]
+    },
+    {
+        "_id": "6292a62bfc13ae5e8e000d25",
+        "type": "Point",
+        "properties": {
+            "address": "01 Becker Pass",
+            "description": "Varna"
+        },
+        "coordinates": [
+            19.6519918,
+            44.6677818
+        ]
+    },
+    {
+        "_id": "6292a62bfc13ae5e8e000d26",
+        "type": "Point",
+        "properties": {
+            "address": "84846 Westerfield Place",
+            "description": "Shuangshan"
+        },
+        "coordinates": [
+            121.423664,
+            31.26179
+        ]
+    },
+    {
+        "_id": "6292a62bfc13ae5e8e000d27",
+        "type": "Point",
+        "properties": {
+            "address": "7652 Sloan Court",
+            "description": "Zwierzyniec"
+        },
+        "coordinates": [
+            22.97512,
+            50.61404
+        ]
+    },
+    {
+        "_id": "6292a62bfc13ae5e8e000d28",
+        "type": "Point",
+        "properties": {
+            "address": "9 Ryan Place",
+            "description": "Bandhagen"
+        },
+        "coordinates": [
+            18.027354,
+            59.2542117
+        ]
+    },
+    {
+        "_id": "6292a62bfc13ae5e8e000d29",
+        "type": "Point",
+        "properties": {
+            "address": "89 West Circle",
+            "description": "Novyye Kuz’minki"
+        },
+        "coordinates": [
+            37.75,
+            55.7
+        ]
+    },
+    {
+        "_id": "6292a62bfc13ae5e8e000d2a",
+        "type": "Point",
+        "properties": {
+            "address": "45270 Manitowish Way",
+            "description": "Bcharré"
+        },
+        "coordinates": [
+            36.0117322,
+            34.2506515
+        ]
+    },
+    {
+        "_id": "6292a62bfc13ae5e8e000d2b",
+        "type": "Point",
+        "properties": {
+            "address": "426 Lerdahl Center",
+            "description": "Longguang"
+        },
+        "coordinates": [
+            114.246899,
+            22.720974
+        ]
+    },
+    {
+        "_id": "6292a62bfc13ae5e8e000d2c",
+        "type": "Point",
+        "properties": {
+            "address": "19 Cody Drive",
+            "description": "Oeri’u"
+        },
+        "coordinates": [
+            123.69983,
+            -10.31
+        ]
+    },
+    {
+        "_id": "6292a62bfc13ae5e8e000d2d",
+        "type": "Point",
+        "properties": {
+            "address": "576 Sachtjen Plaza",
+            "description": "Baitouli"
+        },
+        "coordinates": [
+            112.505924,
+            39.905131
+        ]
+    },
+    {
+        "_id": "6292a62bfc13ae5e8e000d2e",
+        "type": "Point",
+        "properties": {
+            "address": "36705 Karstens Plaza",
+            "description": "Fenoarivo Be"
+        },
+        "coordinates": [
+            49.36706,
+            -17.3256545
+        ]
+    },
+    {
+        "_id": "6292a62bfc13ae5e8e000d2f",
+        "type": "Point",
+        "properties": {
+            "address": "78758 Hudson Parkway",
+            "description": "Sambonggede"
+        },
+        "coordinates": [
+            111.9850391,
+            -6.8750244
+        ]
+    },
+    {
+        "_id": "6292a62bfc13ae5e8e000d30",
+        "type": "Point",
+        "properties": {
+            "address": "951 Old Shore Alley",
+            "description": "Unión de Reyes"
+        },
+        "coordinates": [
+            -81.5349581,
+            22.7970061
+        ]
+    },
+    {
+        "_id": "6292a62bfc13ae5e8e000d31",
+        "type": "Point",
+        "properties": {
+            "address": "26723 Manitowish Point",
+            "description": "Staryy Sambor"
+        },
+        "coordinates": [
+            23.0037506,
+            49.443994
+        ]
+    },
+    {
+        "_id": "6292a62bfc13ae5e8e000d32",
+        "type": "Point",
+        "properties": {
+            "address": "42 Monument Hill",
+            "description": "Lucija"
+        },
+        "coordinates": [
+            13.6405292,
+            45.4698284
+        ]
+    },
+    {
+        "_id": "6292a62bfc13ae5e8e000d33",
+        "type": "Point",
+        "properties": {
+            "address": "54384 Derek Hill",
+            "description": "Benito Juarez"
+        },
+        "coordinates": [
+            -99.0073673,
+            19.4102526
+        ]
+    },
+    {
+        "_id": "6292a62bfc13ae5e8e000d34",
+        "type": "Point",
+        "properties": {
+            "address": "67 Bartelt Alley",
+            "description": "Kayakent"
+        },
+        "coordinates": [
+            47.9018672,
+            42.3866449
+        ]
+    },
+    {
+        "_id": "6292a62bfc13ae5e8e000d35",
+        "type": "Point",
+        "properties": {
+            "address": "204 Toban Plaza",
+            "description": "Isla Pucú"
+        },
+        "coordinates": [
+            -56.9014072,
+            -25.3088443
+        ]
+    },
+    {
+        "_id": "6292a62bfc13ae5e8e000d36",
+        "type": "Point",
+        "properties": {
+            "address": "1547 Fulton Drive",
+            "description": "Xunzhong"
+        },
+        "coordinates": [
+            118.247625,
+            25.493594
+        ]
+    },
+    {
+        "_id": "6292a62bfc13ae5e8e000d37",
+        "type": "Point",
+        "properties": {
+            "address": "52 Cottonwood Park",
+            "description": "Fort Worth"
+        },
+        "coordinates": [
+            -97.3199999,
+            32.7299999
+        ]
+    },
+    {
+        "_id": "6292a62bfc13ae5e8e000d38",
+        "type": "Point",
+        "properties": {
+            "address": "68364 Sauthoff Way",
+            "description": "Kragujevac"
+        },
+        "coordinates": [
+            20.9114225,
+            44.0127932
+        ]
+    },
+    {
+        "_id": "6292a62bfc13ae5e8e000d39",
+        "type": "Point",
+        "properties": {
+            "address": "8 Texas Place",
+            "description": "Elato"
+        },
+        "coordinates": [
+            146.139336,
+            7.4687521
+        ]
+    },
+    {
+        "_id": "6292a62bfc13ae5e8e000d3a",
+        "type": "Point",
+        "properties": {
+            "address": "05 Clove Trail",
+            "description": "Mpongwe"
+        },
+        "coordinates": [
+            28.1561533,
+            -13.5119941
+        ]
+    },
+    {
+        "_id": "6292a62bfc13ae5e8e000d3b",
+        "type": "Point",
+        "properties": {
+            "address": "91392 Scott Point",
+            "description": "Kashima"
+        },
+        "coordinates": [
+            136.9002781,
+            37.1845893
+        ]
+    },
+    {
+        "_id": "6292a62bfc13ae5e8e000d3c",
+        "type": "Point",
+        "properties": {
+            "address": "89027 Duke Park",
+            "description": "Cayenne"
+        },
+        "coordinates": [
+            -52.3205637,
+            4.9237913
+        ]
+    },
+    {
+        "_id": "6292a62bfc13ae5e8e000d3d",
+        "type": "Point",
+        "properties": {
+            "address": "6 Westend Park",
+            "description": "Blois"
+        },
+        "coordinates": [
+            1.3155028,
+            47.594843
+        ]
+    },
+    {
+        "_id": "6292a62bfc13ae5e8e000d3e",
+        "type": "Point",
+        "properties": {
+            "address": "12 Bartelt Avenue",
+            "description": "Gayam"
+        },
+        "coordinates": [
+            105.6984455,
+            -5.7577862
+        ]
+    },
+    {
+        "_id": "6292a62bfc13ae5e8e000d3f",
+        "type": "Point",
+        "properties": {
+            "address": "1 Buell Park",
+            "description": "Waegwan"
+        },
+        "coordinates": [
+            128.3977049,
+            35.989043
+        ]
+    },
+    {
+        "_id": "6292a62bfc13ae5e8e000d40",
+        "type": "Point",
+        "properties": {
+            "address": "26899 Grayhawk Court",
+            "description": "Anibare"
+        },
+        "coordinates": [
+            166.944141,
+            -0.532915
+        ]
+    },
+    {
+        "_id": "6292a62bfc13ae5e8e000d41",
+        "type": "Point",
+        "properties": {
+            "address": "59023 Golf Course Park",
+            "description": "Kladi"
+        },
+        "coordinates": [
+            114.0815055,
+            -7.8281853
+        ]
+    },
+    {
+        "_id": "6292a62bfc13ae5e8e000d42",
+        "type": "Point",
+        "properties": {
+            "address": "07 Toban Junction",
+            "description": "Kayasula"
+        },
+        "coordinates": [
+            44.994265,
+            44.3239335
+        ]
+    },
+    {
+        "_id": "6292a62bfc13ae5e8e000d43",
+        "type": "Point",
+        "properties": {
+            "address": "6352 Superior Place",
+            "description": "Chiquinquirá"
+        },
+        "coordinates": [
+            -73.819571,
+            5.614775
+        ]
+    },
+    {
+        "_id": "6292a62bfc13ae5e8e000d44",
+        "type": "Point",
+        "properties": {
+            "address": "8842 John Wall Place",
+            "description": "Maracaju"
+        },
+        "coordinates": [
+            -55.168269,
+            -21.6110027
+        ]
+    },
+    {
+        "_id": "6292a62bfc13ae5e8e000d45",
+        "type": "Point",
+        "properties": {
+            "address": "01 Helena Avenue",
+            "description": "Xiabao"
+        },
+        "coordinates": [
+            117.523761,
+            37.452432
+        ]
+    },
+    {
+        "_id": "6292a62bfc13ae5e8e000d46",
+        "type": "Point",
+        "properties": {
+            "address": "88056 Arapahoe Lane",
+            "description": "L'Île-Perrot"
+        },
+        "coordinates": [
+            -73.9319061,
+            45.4235609
+        ]
+    },
+    {
+        "_id": "6292a62bfc13ae5e8e000d47",
+        "type": "Point",
+        "properties": {
+            "address": "08 Sutherland Point",
+            "description": "Limoges"
+        },
+        "coordinates": [
+            3.5276642,
+            45.521519
+        ]
+    },
+    {
+        "_id": "6292a62bfc13ae5e8e000d48",
+        "type": "Point",
+        "properties": {
+            "address": "96552 Westridge Center",
+            "description": "Verenchanka"
+        },
+        "coordinates": [
+            25.7418469,
+            48.5443793
+        ]
+    },
+    {
+        "_id": "6292a62bfc13ae5e8e000d49",
+        "type": "Point",
+        "properties": {
+            "address": "71 Ludington Parkway",
+            "description": "Hennenman"
+        },
+        "coordinates": [
+            27.0319884,
+            -27.9715033
+        ]
+    },
+    {
+        "_id": "6292a62bfc13ae5e8e000d4a",
+        "type": "Point",
+        "properties": {
+            "address": "39 Eagle Crest Terrace",
+            "description": "Perštejn"
+        },
+        "coordinates": [
+            13.0825375,
+            50.3863669
+        ]
+    },
+    {
+        "_id": "6292a62bfc13ae5e8e000d4b",
+        "type": "Point",
+        "properties": {
+            "address": "7 Melody Avenue",
+            "description": "Casisang"
+        },
+        "coordinates": [
+            125.1263623,
+            8.1325883
+        ]
+    },
+    {
+        "_id": "6292a62bfc13ae5e8e000d4c",
+        "type": "Point",
+        "properties": {
+            "address": "967 Welch Circle",
+            "description": "Orahovac"
+        },
+        "coordinates": [
+            20.6527992,
+            42.3998287
+        ]
+    },
+    {
+        "_id": "6292a62bfc13ae5e8e000d4d",
+        "type": "Point",
+        "properties": {
+            "address": "8074 Magdeline Plaza",
+            "description": "Kujama"
+        },
+        "coordinates": [
+            7.6358249,
+            10.4801506
+        ]
+    },
+    {
+        "_id": "6292a62bfc13ae5e8e000d4e",
+        "type": "Point",
+        "properties": {
+            "address": "95 Lindbergh Avenue",
+            "description": "Chakaray"
+        },
+        "coordinates": [
+            69.4377,
+            34.34099
+        ]
+    },
+    {
+        "_id": "6292a62bfc13ae5e8e000d4f",
+        "type": "Point",
+        "properties": {
+            "address": "7886 Morningstar Junction",
+            "description": "Uyo"
+        },
+        "coordinates": [
+            7.9127945,
+            5.0377396
+        ]
+    },
+    {
+        "_id": "6292a62bfc13ae5e8e000d50",
+        "type": "Point",
+        "properties": {
+            "address": "956 Knutson Hill",
+            "description": "Baisha"
+        },
+        "coordinates": [
+            100.222545,
+            26.641315
+        ]
+    },
+    {
+        "_id": "6292a62bfc13ae5e8e000d51",
+        "type": "Point",
+        "properties": {
+            "address": "4263 Del Sol Terrace",
+            "description": "Whittier"
+        },
+        "coordinates": [
+            -118.07,
+            33.97
+        ]
+    }
+]

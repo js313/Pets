@@ -1,0 +1,12 @@
+.img {
+    display: block;
+    max-width: 70%;
+}
+
+.notfoundbg {
+    height: 100vh;
+    background: linear-gradient(rgba(255, 255, 255, .7), rgba(255, 255, 255, .7)), url('../assets/images/BG.jpg') no-repeat center center fixed;
+    background-size: 100%;
+    display: flex;
+    justify-content: center;
+}

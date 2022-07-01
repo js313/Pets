@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Exo
+- Font Author: Copyright 2017 The Exo Project Authors (https://github.com/NDISCOVER/Exo-1.0)
+- Font Source: http://fonts.gstatic.com/s/exo/v19/4UaZrEtFpBI4f1ZSIK9d4LjJ4vowCwNsOl4p5Is.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))

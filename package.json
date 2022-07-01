@@ -1,0 +1,40 @@
+{
+  "name": "pets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "startserv:dev": "nodemon server.js",
+    "startserv:prod": "NODE_ENV=production nodemon server.js",
+    "server": "nodemon server --ignore client",
+    "client": "npm start --prefix client",
+    "start:dev": "concurrently --kill-others-on-fail \"npm run startserv:prod\" \" npm run client\"",
+    "start:prod": "concurrently --kill-others-on-fail \"npm run startserv:prod\" \" npm run client\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "cloudinary": "^1.30.0",
+    "cookie-parser": "^1.4.6",
+    "dotenv": "^14.3.2",
+    "express": "^4.17.2",
+    "express-mongo-sanitize": "^2.2.0",
+    "express-rate-limit": "^6.2.0",
+    "helmet": "^5.0.2",
+    "hpp": "^0.2.3",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.1.8",
+    "morgan": "^1.10.0",
+    "nodemailer": "^6.7.2",
+    "slugify": "^1.6.5",
+    "validator": "^13.7.0",
+    "xss-clean": "^0.1.1"
+  },
+  "devDependencies": {
+    "concurrently": "^7.1.0",
+    "nodemon": "^2.0.16"
+  }
+}

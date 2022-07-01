@@ -1,0 +1,10 @@
+[{"_id":{"$oid":"6292828bfc13ae3b0700030b"},"rating":1.1,"body":"Ipsum Is a good company","createdAt":{"$date":"2022-02-21T17:38:57.000Z"}},
+{"_id":{"$oid":"6292828bfc13ae3b0700030c"},"rating":1.2,"body":"Es excelemte si te gusta trabajar en redes sociales y trato con clientes aprendes mucho","createdAt":{"$date":"2021-10-06T13:46:27.000Z"}},
+{"_id":{"$oid":"6292828bfc13ae3b0700030d"},"rating":4.8,"body":"très bonne expérience au sein d'un grand groupe.","createdAt":{"$date":"2021-08-24T07:52:32.000Z"}},
+{"_id":{"$oid":"6292828bfc13ae3b0700030e"},"rating":2.7,"body":"grow and move on.","createdAt":{"$date":"2021-06-12T08:05:07.000Z"}},
+{"_id":{"$oid":"6292828bfc13ae3b0700030f"},"rating":2.7,"body":"I absolutely love my job here. The people are so fair","createdAt":{"$date":"2022-01-28T07:48:41.000Z"}},
+{"_id":{"$oid":"6292828bfc13ae3b07000310"},"rating":4.3,"body":"their CEO is a close guy","createdAt":{"$date":"2021-11-29T09:44:11.000Z"}},
+{"_id":{"$oid":"6292828bfc13ae3b07000311"},"rating":2.5,"body":"direction appréciable","createdAt":{"$date":"2022-01-26T17:23:57.000Z"}},
+{"_id":{"$oid":"6292828bfc13ae3b07000312"},"rating":4.1,"body":"Bood","createdAt":{"$date":"2021-10-17T01:33:25.000Z"}},
+{"_id":{"$oid":"6292828bfc13ae3b07000313"},"rating":1.1,"body":"très bonne expérience au sein d'un grand groupe.","createdAt":{"$date":"2021-09-06T17:05:43.000Z"}},
+{"_id":{"$oid":"6292828bfc13ae3b07000314"},"rating":4.7,"body":"Worst","createdAt":{"$date":"2021-07-12T19:05:10.000Z"}}]

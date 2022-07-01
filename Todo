@@ -1,0 +1,39 @@
+(FE)Add donate option after frontend implemented.
+
+(LATER)Add Chat with parent or a shelter owner/employee option, i.e other user.
+(LATER)Permission from admin/moderator to add, update, delete a shelter, review or pet.
+(LATER)Add more indexing for DB according to usage to speed up querying.
+(LATER)Optimize performance.
+
+(VIMP)Models need drastic changes after seeing frontend implementation. Role is the most janky of all.
+(IMP)Apply unique property on shelter only for shelters that are active. e.g. new shelters with same name as inactive shelters should be allowed.
+(IMP)Same unique property for user emails.
+(IMP)Don't include virtuals globally(in model toJson, toObject), only when needed, https://stackoverflow.com/questions/52978514/exclude-virtual-fields.
+(IMP)Follow fat model architecture and move functions like, checking if manager/owner belongs to specified shelter/uploading images, to model.
+(IMP)Use promise.all in places like, see shelter controller newShelter method.
+(IMP)Add limit to the amount of pets in a shelter or with a parent.
+(IMP)Add HTML to emails.
+
+Delete uploaded photos on cloudinary if mongodb save failed.
+Add more seed data.
+Send email notification when shelter, user or pet's fields updated.
+
+Use relationships for location, i.e. make common location model and add references.
+Improve error messages.
+Ability to favorite pets/shelters.
+
+(TEST)Add and check all routes, present in routes folder, in postman.
+
+(REM)Updated location model for pet, shelter and user models.
+(REM)Admin cannot be owner of shelter.
+(REM)Only not delete user, set it as inactive.
+(REM)Mongo Sanitize option allowDots is set to true(for queries like 'location.description=Beaver Creek'), might be a security flaw, find a work around.
+(REM)Learn how jwt works.
+(REM)Enable rate limiter in production (./app.js).
+(REM)Learn aggregation pipelines.
+(REM)Case insensitve index, https://www.mongodb.com/docs/manual/core/index-case-insensitive/.
+(REM)Credit Mockaroo(helped a ton), cloudinary,  and all other services and packages used, like carousel, etc.
+
+(BUG)In shelter model 'team' field is selected even when user passed query does not have it.
+(BUG)How is saving user in 'req' object statelessness, which is the point of jwt! why is using req.user.id not breaking that construct?
+(ANS)Because 'req' comes in after every api call overwriting that user object, so we need to send Bearer token with every call. protect method for more info.

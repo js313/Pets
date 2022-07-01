@@ -1,0 +1,34 @@
+(BUG)Material ui text fields do not fully reset after clear filter.
+(BUG)Local storage is never cleared in the browser(I have setup firefox to delete it on close). user never signs out even after jwt expiration.
+(BUG)Alerts are cleared on page reload. e.g. 'Review deleted' alert, etc.
+(BUG)Alerts box goes up(in hidden mode) if many alerts are hidden.
+
+(REM)Remove all console.log's in production.
+(REM)Learn and use mapbox more.
+(REM)Learn and use recharts.
+(REM)Used react responsive carousel.
+(REM)AppProvider should be a child of BrowserRouter in App.js, as we need to redirect in appContext.
+
+(IMP)Store react state, dataToDisplay in localStorage to maintain it on reload.
+(IMP)Color pets' dots differently from shelters'.
+(IMP)Add 'sort by' feature in search filter in pets and shelters tab.
+(IMP)Change z-index for alerts, so that mapbox elements are not over it.
+(IMP)Link up team members' profile in shelterDetails component.
+(IMP)Capitalize first letters in details, all page.
+(IMP)Add show password icon in signin form.
+(IMP)Show shelters and its pets in managers profile as well.
+(IMP)Show modal asking for confirmation to delete pets, shelter and review.
+
+(TEST)User saved in context in frontend does not update right away after registeration of shelter/pets.
+
+Clear all webpack warnings.
+We can make a dropdown in sidebar, in explore tab, for pets, shelters and map.
+Utilize the error prop provided by Text Field api in material ui.
+Animate clearing alerts.
+Find a better way to id alerts, if needed.
+Show is a redundant property in alerts, but keeping it for now if required in future.
+Take inspiration and add more features to map:- https://docs.mapbox.com/mapbox-gl-js/example/.
+Credit react-images-uploading, react-responsive-carousel.
+Read about blob, file, fileReader, etc. https://developer.mozilla.org/en-US/docs/Web/API/FileReader/readAsDataURL
+
+(NOTE)Setting up react app without npx create-react-app: https://docs.mapbox.com/help/tutorials/use-mapbox-gl-js-with-react/#set-up-the-react-app-structure
