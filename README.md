@@ -4,6 +4,8 @@ Welcome to the **Pets** project! This application is designed to connect pet lov
 
 ---
 
+![Home Page](https://github.com/js313/project-images/blob/main/Pets/Pets.png?raw=true)
+
 ## Features 📝  
 
 ### Core Functionality  
@@ -75,6 +77,8 @@ Welcome to the **Pets** project! This application is designed to connect pet lov
   - Material-UI for consistent and modern UI components.  
 
 ---
+
+![Dashboard](https://github.com/js313/project-images/blob/main/Pets/Pets2.png?raw=true)
 
 ## Installation and Setup
 1. Clone the repository:
